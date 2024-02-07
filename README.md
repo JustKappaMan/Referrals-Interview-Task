@@ -1,4 +1,5 @@
 # Referrals Interview Task
+![MIT License](https://img.shields.io/github/license/JustKappaMan/Referrals-Interview-Task)
 
 Тестовое задание на должность Python Backend Developer в [Stakewolle](https://career.habr.com/companies/stakewollecom).
 
